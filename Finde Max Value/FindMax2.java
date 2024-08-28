@@ -1,3 +1,5 @@
+// Same ass FindMax.java, but added the index finder using binary search
+
 class FindMax {
 
     static int findIndex(int[] arr, int value) {
