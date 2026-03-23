@@ -11,6 +11,6 @@ func findMin(arr:[Int]) {
     print(lowest)
 }
 
-let arr = [23,12,233,-1,0,33,2,-22,345]
+let arr = [13, 44, 576, 87, -12, 0, -45, 78]
 
 findMin(arr: arr)
