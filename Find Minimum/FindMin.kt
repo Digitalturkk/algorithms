@@ -8,6 +8,6 @@ fun findMin(arr: IntArray): Int {
     return min
 }
 fun main() {
-    val array = intArrayOf(13, 45, 56, 78, -20, -10)
+    val array = intArrayOf(13, 44, 576, 87, -12, 0, -45, 78)
     println(findMin(array))
 }
