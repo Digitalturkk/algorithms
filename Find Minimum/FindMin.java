@@ -13,7 +13,7 @@ public class FindMin {
     }
 
     public static void main(String[] args) {
-        int[] array = {13, 45, 56, 78, -20, -10};
+        int[] array = {13, 44, 576, 87, -12, 0, -45, 78};
         System.out.println(min(array));
     }
 }
