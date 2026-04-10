@@ -8,6 +8,6 @@ function findMin(arr: number[]) {
     return min;
 }
 
-let arr: number[] = [12, 43, 454, 2, 434, -4, 0, 12];
+let arr: number[] = [13, 44, 576, 87, -12, 0, -45, 78];
 
 console.log(findMin(arr))
